@@ -1,0 +1,1 @@
+ALTER TABLE `posts` ADD `category` text DEFAULT 'free' NOT NULL;

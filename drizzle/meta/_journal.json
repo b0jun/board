@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791867306499,
+      "tag": "0000_even_the_spike",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791870373815,
+      "tag": "0001_lame_lila_cheney",
+      "breakpoints": true
+    }
+  ]
+}
